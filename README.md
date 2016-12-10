@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository.
+
+I'm going to open the first vineyard on Mars and bottle Invader Zinfandel.
